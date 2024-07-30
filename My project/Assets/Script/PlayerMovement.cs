@@ -35,6 +35,15 @@ public class PlayerMovement : MonoBehaviour
         }
         
         Flip();
+
+        if(horizontal !=0)
+        {
+            anim.SetBool("Walking", true);
+        }
+        else
+        {
+            anim.SetBool("Walking", false);
+        }
     }
 
     private void FixedUpdate()
