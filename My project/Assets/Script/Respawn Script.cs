@@ -3,26 +3,32 @@
     using UnityEngine;
     using UnityEngine.SceneManagement; 
 
-    public class RespawnScript : MonoBehaviour
+public class RespawnScript : MonoBehaviour
     {
-        public int Respawn; 
+        Vector2 startPos; 
+        
+        public int Respawn;
         // Start is called before the first frame update
         void Start()
         {
-            
+            startPos = transform.position;
         }
+
 
         // Update is called once per frame
         void Update()
         {
-            
+           
         }
 
-        void OnTriggerEnter2D(Collider2D other) 
+
+        void OnTriggerEnter2D(Collider2D other)
         {
             if(other.CompareTag("Player"))
             {
-                SceneManager.LoadScene(Respawn); 
+                SceneManager.LoadScene(Respawn);  
             }
         }
     }
+
+
