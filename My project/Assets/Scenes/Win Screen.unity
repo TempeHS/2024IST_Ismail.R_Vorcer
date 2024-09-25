@@ -832,8 +832,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -1, y: 38}
-  m_SizeDelta: {x: 1064.02, y: 672.3414}
+  m_AnchoredPosition: {x: 22, y: -25}
+  m_SizeDelta: {x: 1789.9124, y: 1296.6716}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1728974859
 MonoBehaviour:
@@ -1011,7 +1011,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 8, y: -223}
+  m_AnchoredPosition: {x: 6, y: -501}
   m_SizeDelta: {x: 580.8705, y: 691.1514}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1823183405
@@ -1060,7 +1060,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 0}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: QuitGame
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}

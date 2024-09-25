@@ -713,9 +713,9 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 703642280}
+      - m_Target: {fileID: 703642276}
         m_TargetAssemblyTypeName: MainMenu, Assembly-CSharp
-        m_MethodName: QuitGame
+        m_MethodName: 
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1455,8 +1455,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -24.441998, y: -75.063156}
-  m_SizeDelta: {x: -247.2828, y: 22.5168}
+  m_AnchoredPosition: {x: 114.71106, y: -151.37294}
+  m_SizeDelta: {x: 426.0386, y: 615.0396}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1679851009
 MonoBehaviour:
