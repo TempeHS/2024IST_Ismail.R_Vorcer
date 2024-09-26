@@ -55,10 +55,12 @@ When I first started producing my game, I realised my idea was too complicated, 
 ![Particle System](https://unity-connect-prd.storage.googleapis.com/20190620/learn/images/16a13de5-f75c-4595-927c-c45bb16562b9_introduction_to_particle_systems___02.png) ![Script](https://miro.medium.com/v2/resize:fit:833/1*srBw68JwCVqG-z79QokHBw.png) 
 ![Game Design Layout](https://gametorrahod.com/content/images/2019/07/Screenshot-2019-07-12-14.13.00.png)
 
-## Video Walkthrough - Link Below 
+## Video Walkthrough
 **The** video is just above 1 minute and demonstartes all game elements such as interactions, aniamtions, effects. It shows off the game and only has Game Audio, it has to voice overs and has hardcoded text. 
 
-"https://www.youtube.com/embed/SXDpiSZOvJs" 
+https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
+
+
 ---
 
 ## Credits
