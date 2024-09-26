@@ -51,7 +51,7 @@ When I first started producing my game, I realised my idea was too complicated, 
 ![image](https://github.com/user-attachments/assets/3328c74a-8225-48aa-89e1-04247937cb3b)
 
 
-## Production - Game Design Tutorials (Online)
+## Production - Game Designs (Online)
 ![Particle System](https://unity-connect-prd.storage.googleapis.com/20190620/learn/images/16a13de5-f75c-4595-927c-c45bb16562b9_introduction_to_particle_systems___02.png) ![Script](https://miro.medium.com/v2/resize:fit:833/1*srBw68JwCVqG-z79QokHBw.png) 
 ![Game Design Layout](https://gametorrahod.com/content/images/2019/07/Screenshot-2019-07-12-14.13.00.png)
 
