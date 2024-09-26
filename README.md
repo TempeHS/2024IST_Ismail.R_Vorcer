@@ -14,7 +14,8 @@
  - Video Walkthrough of game
 3. Assets
  - Assets File
-4. [Credits](#credits)
+4. Scripts
+5. [Credits](#credits)
 
 ## User Documentation
 
@@ -78,6 +79,9 @@ https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 
 ## Assets
 [Assets](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Sprites)
+
+## Scripts
+[Scripts](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Script)
 
 
 ---
