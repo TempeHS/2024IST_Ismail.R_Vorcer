@@ -56,7 +56,7 @@ When I first started producing my game, I realised my idea was too complicated, 
 ![Game Design Layout](https://gametorrahod.com/content/images/2019/07/Screenshot-2019-07-12-14.13.00.png)
 
 ## Video Walkthrough - Link Below 
-**The** video is just above 1 minute and demonstartes all game elements such as interactions, aniamtions, effects. It shows off the game and only has Game Audio, it has to voice overs and has hardcoded text.  
+**The** video is just above 1 minute and demonstartes all game elements such as interactions, aniamtions, effects. It shows off the game and only has Game Audio, it has to voice overs and has hardcoded text. 
 
 "https://www.youtube.com/embed/SXDpiSZOvJs" 
 ---
