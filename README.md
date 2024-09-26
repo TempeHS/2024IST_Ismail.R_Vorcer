@@ -13,6 +13,7 @@
  - Production
  - Video Walkthrough of game
 3. Assets
+ - Assets File
 4. [Credits](#credits)
 
 ## User Documentation
