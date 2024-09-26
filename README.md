@@ -19,12 +19,22 @@
 
 ### Controls
 
+## Keyboard and Mouse
+
 | Action        | Output                              |
 | ------------- | ----------------------------------- |
 | **W**         | Jump                                |
 | **A**         | Move Left                           |
 | **D**         | Move Right                          |
 | **Space**     | Jump                                |
+
+## Controller
+
+| Action                      | Output                              |
+| --------------------------- | ----------------------------------- |
+| **Left Joystick**           | Move Left                           |
+| **Right Joystick**          | Move Down                           |
+| *Click*                     | *Currently unresponsive*            |
 
 ### Game Objective
 - **Levels**: The game has two levels.
