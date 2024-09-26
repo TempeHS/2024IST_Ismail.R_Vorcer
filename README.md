@@ -18,9 +18,13 @@
 ## User Documentation
 
 ### Controls
-- **W**: Jump
-- **A**: Move Left
-- **D**: Move Right
+
+| Action        | Output                              |
+| ------------- | ----------------------------------- |
+| **W**         | Jump                                |
+| **A**         | Move Left                           |
+| **D**         | Move Right                          |
+| **Space**     | Jump                                |
 
 ### Game Objective
 - **Levels**: The game has two levels.
