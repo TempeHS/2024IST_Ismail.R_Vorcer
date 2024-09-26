@@ -3,7 +3,7 @@
 
 **Vorcer** was created as a 2D game where the player has to dodge monster and fireballs shot from the monster, collect coins, and reach the flags to advance to the next level. Originally, the plan was to make a survival action game called **Vorcer**, which would focus on the social issue of verbal bullying, a problem that affects many teenagers today. The audience for **Vorcer** was intended to be teens, as they often face challenges related to this issue. However, this current game turned into something different. 
 
-## Table of Contents
+# Table of Contents
 
 1. [User Documentation](#user-documentation)
  - Controls of the game
@@ -17,11 +17,11 @@
 4. Scripts
 5. [Credits](#credits)
 
-## User Documentation
+# User Documentation
 
-### Controls
+## Controls
 
-## Keyboard and Mouse
+### Keyboard and Mouse
 
 | Action        | Output                              |
 | ------------- | ----------------------------------- |
@@ -30,7 +30,7 @@
 | **D**         | Move Right                          |
 | **Space**     | Jump                                |
 
-## Controller
+### Controller
 
 | Action                      | Output                              |
 | --------------------------- | ----------------------------------- |
@@ -38,17 +38,14 @@
 | **Right Joystick**          | Move Down                           |
 | **Click**                   | **Unresponsive**                    |
 
-### Game Objective
+# Game Objective
 - **Levels**: The game has two levels.
 - **Monsters**: Dodge monsters shooting fireballs at you while collecting coins.
 - **Coins**: Collect all the coins while avoiding the green monsters shooting at the player.
 - **Flags**: To move to the next level, you need to touch the flag at the end of the level.
 - **Goal**: Complete both levels by collecting coins, dodging monsters. After collecting everything and reaching the final flag, you would be awarded with a win screen.
 
-### Game Screenshots
-
-
-## Developer Documentation
+# Developer Documentation
 
 ### What I intended to create: Vorcer
 What I intended to create, was a 2D survival action game that would address the social issue of verbal bullying. The idea was to provide players with a platform to navigate through different environments in the that show different emotional and psychological obstacles bullying can create. The aim was to raise awareness of this issue and show how words can impact a person.
@@ -60,7 +57,7 @@ When I first started producing my game, I realised my idea was too complicated, 
 - **Level Progression**: Players should reach the flag at the end of the level, to unlock the next level.
 - **Music**: Produced a soundtrack in sountrap for the game, to give a sense of excitement
 
-## Game ScreenShots
+# Game ScreenShots
 ![image](https://github.com/user-attachments/assets/d608c475-c620-42aa-9bbe-44f35a6edc8b)
 ![image](https://github.com/user-attachments/assets/517ec29e-c829-412a-9b15-b8cf0aa9c90c)
 ![image](https://github.com/user-attachments/assets/d73f781b-812d-4de6-a157-50cb2292490e)
@@ -68,24 +65,32 @@ When I first started producing my game, I realised my idea was too complicated, 
 ![image](https://github.com/user-attachments/assets/3328c74a-8225-48aa-89e1-04247937cb3b)
 
 
-## Production - Game Designs (Online)
+# Production - Game Designs (Online)
 ![Particle System](https://unity-connect-prd.storage.googleapis.com/20190620/learn/images/16a13de5-f75c-4595-927c-c45bb16562b9_introduction_to_particle_systems___02.png) ![Script](https://miro.medium.com/v2/resize:fit:833/1*srBw68JwCVqG-z79QokHBw.png) 
 ![Game Design Layout](https://gametorrahod.com/content/images/2019/07/Screenshot-2019-07-12-14.13.00.png)
 
-## Video Walkthrough
+# Video Walkthrough
 **The** video is just above 1 minute and demonstartes all game elements such as interactions, aniamtions, effects. It shows off the game and only has Game Audio, it has to voice overs and has hardcoded text. 
 
 https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 
-## Assets
+# Assets
 [Assets](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Sprites)
 
-## Scripts
-[Scripts](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Script)
+# Scripts
+[CameraFollow](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/CameraFollow.cs)
+[Coin](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/Coin.cs)
+[Coin Manager](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/CoinManager.cs)
+[Finish Point](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/FinshPoint.cs)
+[Kill Projectile](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/KillProjectile.cs)
+[Main Menu](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/MainMenu.cs)
+[Player Movement](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/PlayerMovement.cs)
+[Respawn](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/Respawn%20Script.cs)
+[Scene Controller](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/SceneController.cs)
 
 ---
 
-## Credits
+# Credits
 - **Game Design and Development**: Ismail Rizvi
 - **Game Character Designs**: Ismail Rizvi
 
