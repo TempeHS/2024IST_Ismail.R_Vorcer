@@ -9,7 +9,8 @@
  - Controls of the game
 2. [Developer Documentation](#developer-documentation)
  - What I intended to make and What I made
- - Producing the game
+ - Game Screenshots
+ - Production
  - Video Walkthrough of game
 3. [Credits](#credits)
 
@@ -25,7 +26,10 @@
 - **Monsters**: Dodge monsters shooting fireballs at you while collecting coins.
 - **Coins**: Collect all the coins while avoiding the green monsters shooting at the player.
 - **Flags**: To move to the next level, you need to touch the flag at the end of the level.
-- **Goal**: Complete both levels by collecting coins, dodging monsters. After collecting everything and reaching the final flag, you would be awarded with a win screen. 
+- **Goal**: Complete both levels by collecting coins, dodging monsters. After collecting everything and reaching the final flag, you would be awarded with a win screen.
+
+### Game Screenshots
+
 
 ## Developer Documentation
 
@@ -38,6 +42,14 @@ When I first started producing my game, I realised my idea was too complicated, 
 - **Enemy**: Monsters actively shoot at the player, adding difficulty and excitement to the gameplay.
 - **Level Progression**: Players should reach the flag at the end of the level, to unlock the next level.
 - **Music**: Produced a soundtrack in sountrap for the game, to give a sense of excitement
+
+## Game ScreenShots
+![image](https://github.com/user-attachments/assets/d608c475-c620-42aa-9bbe-44f35a6edc8b)
+![image](https://github.com/user-attachments/assets/517ec29e-c829-412a-9b15-b8cf0aa9c90c)
+![image](https://github.com/user-attachments/assets/d73f781b-812d-4de6-a157-50cb2292490e)
+![image](https://github.com/user-attachments/assets/e53e845d-b37a-402d-a507-913c2d83303b)
+![image](https://github.com/user-attachments/assets/3328c74a-8225-48aa-89e1-04247937cb3b)
+
 
 ## Production - Game Designs (Online)
 ![Particle System](https://unity-connect-prd.storage.googleapis.com/20190620/learn/images/16a13de5-f75c-4595-927c-c45bb16562b9_introduction_to_particle_systems___02.png) ![Script](https://miro.medium.com/v2/resize:fit:833/1*srBw68JwCVqG-z79QokHBw.png) 
