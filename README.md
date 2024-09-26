@@ -83,7 +83,6 @@ https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 ## Scripts
 [Scripts](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Script)
 
-
 ---
 
 ## Credits
