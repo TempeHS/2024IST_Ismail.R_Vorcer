@@ -88,7 +88,7 @@ When I first started producing my game, I realised my idea was too complicated, 
 ![image](https://github.com/user-attachments/assets/bc930a5b-cc47-4ee3-9989-8b2f9606274c)
 ![image](https://github.com/user-attachments/assets/8843a255-99a9-42b4-b8ec-fe6f6b89b22a)
 
-# Game ScreenShots
+# Game Screenshots
 ![image](https://github.com/user-attachments/assets/d608c475-c620-42aa-9bbe-44f35a6edc8b)
 ![image](https://github.com/user-attachments/assets/517ec29e-c829-412a-9b15-b8cf0aa9c90c)
 ![image](https://github.com/user-attachments/assets/d73f781b-812d-4de6-a157-50cb2292490e)
