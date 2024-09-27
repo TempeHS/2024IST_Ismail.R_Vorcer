@@ -75,18 +75,18 @@ When I first started producing my game, I realised my idea was too complicated, 
 https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 
 # Assets
-[Assets](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Sprites)
+[View Assets](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Sprites)
 
 # Scripts
-[CameraFollow](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/CameraFollow.cs)
-[Coin](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/Coin.cs)
-[Coin Manager](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/CoinManager.cs)
-[Finish Point](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/FinshPoint.cs)
-[Kill Projectile](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/KillProjectile.cs)
-[Main Menu](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/MainMenu.cs)
-[Player Movement](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/PlayerMovement.cs)
-[Respawn](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/Respawn%20Script.cs)
-[Scene Controller](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/SceneController.cs)
+- [CameraFollow](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/CameraFollow.cs)
+- [Coin](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/Coin.cs)
+- [Coin Manager](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/CoinManager.cs)
+- [Finish Point](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/FinshPoint.cs)
+- [Kill Projectile](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/KillProjectile.cs)
+- [Main Menu](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/MainMenu.cs)
+- [Player Movement](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/PlayerMovement.cs)
+- [Respawn](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/Respawn%20Script.cs)
+- [Scene Controller](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/SceneController.cs)
 
 ---
 
