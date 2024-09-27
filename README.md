@@ -145,4 +145,14 @@ https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 ---
 
 # Bibliography
+- https://www.youtube.com/watch?v=FXXc0hTWIMs&list=WL&index=16 : How to Import a 2D Character Sprite Sheet
+- https://www.youtube.com/watch?v=52hW2y6D8sw&list=WL&index=12 : Dust Trail Effect
+- https://www.youtube.com/watch?v=hYLm-bSq2sY&list=WL&index=11 : How To Add Background Music
+- https://www.youtube.com/watch?v=G-JUp8AMEx0&list=WL&index=9 : Unity Audio Volume Settings Menu
+- https://www.youtube.com/watch?v=QJBL9eHBsso&list=WL&index=8 : Moving Levels and Scenes
+- https://www.youtube.com/watch?v=E25JWfeCFPA&list=WL&index=7 : Unity 2D Scene Management
+- https://www.youtube.com/watch?v=DX7HyN7oJjE&list=WL&index=6 : Make Main Menu
+- https://www.youtube.com/watch?v=--u20SaCCow&list=WL&index=5 : Enemy Shooting
+- https://www.youtube.com/watch?v=odStG_LfPMQ&list=WL&index=4 : Unity Player Respawn
+- https://www.youtube.com/watch?v=5GWRPwuWtsQ&list=WL&index=3 : Coin Collection System
 
