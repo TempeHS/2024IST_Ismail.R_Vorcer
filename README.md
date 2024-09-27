@@ -10,8 +10,8 @@
 ### 2. [Developer Documentation](#developer-documentation)
  - Game Storyline (Intended to Make)
  - What I intended to make and What I made
- - Game Screenshots
  - Production
+ - Game Screenshots
  - Video Walkthrough of game
 ### 3. [Assets](#assets)
  - Assets File
@@ -71,18 +71,17 @@ When I first started producing my game, I realised my idea was too complicated, 
 - **Level Progression**: Players should reach the flag at the end of the level, to unlock the next level.
 - **Music**: Produced a soundtrack in sountrap for the game, to give a sense of excitement
 
+# Production 
+![image](https://github.com/user-attachments/assets/1250ce42-ca0b-4989-a180-b4ae44e3c651)
+![image](https://github.com/user-attachments/assets/28ca2a44-8cce-4575-b4db-02e5d0bf382c)
+![image](https://github.com/user-attachments/assets/bc930a5b-cc47-4ee3-9989-8b2f9606274c)
+
 # Game ScreenShots
 ![image](https://github.com/user-attachments/assets/d608c475-c620-42aa-9bbe-44f35a6edc8b)
 ![image](https://github.com/user-attachments/assets/517ec29e-c829-412a-9b15-b8cf0aa9c90c)
 ![image](https://github.com/user-attachments/assets/d73f781b-812d-4de6-a157-50cb2292490e)
 ![image](https://github.com/user-attachments/assets/e53e845d-b37a-402d-a507-913c2d83303b)
 ![image](https://github.com/user-attachments/assets/3328c74a-8225-48aa-89e1-04247937cb3b)
-
-
-# Production 
-![image](https://github.com/user-attachments/assets/1250ce42-ca0b-4989-a180-b4ae44e3c651)
-![image](https://github.com/user-attachments/assets/28ca2a44-8cce-4575-b4db-02e5d0bf382c)
-![image](https://github.com/user-attachments/assets/bc930a5b-cc47-4ee3-9989-8b2f9606274c)
 
 # Game Walkthrough
 **The** video demonstartes all game elements such as interactions, aniamtions, effects. It shows off the game and only has Game Audio, it has no voice overs and has hardcoded text. 
