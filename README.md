@@ -8,6 +8,7 @@
 ### 1. [User Documentation](#user-documentation)
  - Controls of the game
 ### 2. [Developer Documentation](#developer-documentation)
+ - Game Storyline (Intended to Make)
  - What I intended to make and What I made
  - Game Screenshots
  - Production
@@ -56,6 +57,9 @@
 - **Goal**: Complete both levels by collecting coins, dodging monsters. After collecting everything and reaching the final flag, you would be awarded with a win screen.
 
 # Developer Documentation
+
+### Original Storyline (Intended to imply)
+The game will be based on a verbal abuse story. A shy teenager who has started high school and gets verbally abused for his actions and his personality. These factors contribute to the verbal abuse stated by the monsters of his imagination. So, to fight of this imagination, he has to dodge the evil characters of this world.
 
 ### What I intended to create: Vorcer
 What I intended to create, was a 2D survival action game that would address the social issue of verbal bullying. The idea was to provide players with a platform to navigate through different environments in the that show different emotional and psychological obstacles bullying can create. The aim was to raise awareness of this issue and show how words can impact a person.
