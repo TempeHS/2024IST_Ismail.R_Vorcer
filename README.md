@@ -11,8 +11,8 @@
  - Production
  - Game Screenshots
  - Video Walkthrough of game
-### 4. [Assets](#assets)
- - Assets File
+### 4. [Sprites](#assets)
+ - Characters
 ### 5. [Scripts](#scripts)
 - CameraFollow
 - Coin
@@ -92,7 +92,21 @@ When I first started producing my game, I realised my idea was too complicated, 
 
 https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 
-# Assets
+# Sprites
+[Bullet](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Bullet.gif)
+[Coin Controller](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Coin.controller)
+[Coin Prefab](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Coin.prefab)
+[Monster 1](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Monster%20(1).controller)
+[School Boy Controller](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/School%20Boy.controller)
+[Sprite Sheet Boy](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Boy.png)
+[Sprite Sheet Coin](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Coin.png)
+[Sprite Sheet Idle Animation Boy](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Idle%20Animation%20Boy%20(1)%20(2).png)
+[Sprite Sheet Idle Animation Monster](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Idle%20Animation%20Monster.png)
+[Still.anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Still.anim)
+[Walk.anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/walk.anim)
+[Coin.anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/coin.anim)
+[Monster still anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/monster%20still.anim)
+
 [View In Game Assets](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Sprites)
 
 # Scripts
