@@ -11,8 +11,8 @@
  - Production
  - Game Screenshots
  - Video Walkthrough of game
-### 4. [Sprites](#assets)
- - Characters
+### 4. [Sprites](#sprites)
+ - Folder with everything
 ### 5. [Scripts](#scripts)
 - CameraFollow
 - Coin
@@ -23,6 +23,7 @@
 - Player Movement
 - Respawn
 - Scene Controller
+- Folder with everything
 ### 6. [Credits](#credits)
 
 # Overview
@@ -93,23 +94,30 @@ When I first started producing my game, I realised my idea was too complicated, 
 https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 
 # Sprites
-[Bullet](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Bullet.gif)
-[Coin Controller](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Coin.controller)
-[Coin Prefab](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Coin.prefab)
-[Monster 1](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Monster%20(1).controller)
-[School Boy Controller](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/School%20Boy.controller)
-[Sprite Sheet Boy](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Boy.png)
-[Sprite Sheet Coin](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Coin.png)
-[Sprite Sheet Idle Animation Boy](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Idle%20Animation%20Boy%20(1)%20(2).png)
-[Sprite Sheet Idle Animation Monster](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Idle%20Animation%20Monster.png)
-[Still.anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Still.anim)
-[Walk.anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/walk.anim)
-[Coin.anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/coin.anim)
-[Monster still anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/monster%20still.anim)
 
-[View In Game Assets](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Sprites)
+## Every Sprite in one folder
+- [Folder with everything](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Sprites)
+
+## Each Sprite Separated
+- [Bullet](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Bullet.gif)
+- [Coin Controller](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Coin.controller)
+- [Coin Prefab](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Coin.prefab)
+- [Monster 1](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Monster%20(1).controller)
+- [School Boy Controller](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/School%20Boy.controller)
+- [Sprite Sheet Boy](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Boy.png)
+- [Sprite Sheet Coin](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Coin.png)
+- [Sprite Sheet Idle Animation Boy](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Idle%20Animation%20Boy%20(1)%20(2).png)
+- [Sprite Sheet Idle Animation Monster](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Sprite%20Sheet%20Idle%20Animation%20Monster.png)
+- [Still.anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Still.anim)
+- [Walk.anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/walk.anim)
+- [Coin.anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/coin.anim)
+- [Monster still anim](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/monster%20still.anim)
 
 # Scripts
+
+## Every Script in one folder
+- [Folder with everything](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Script)
+## Each Script Separated
 - [CameraFollow](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/CameraFollow.cs)
 - [Coin](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/Coin.cs)
 - [Coin Manager](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/CoinManager.cs)
