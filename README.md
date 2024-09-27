@@ -40,6 +40,7 @@
 | **A**         | Move Left                           |
 | **D**         | Move Right                          |
 | **Space**     | Jump                                |
+| **Left Click**| In Game Button Clicks               |
 
 ### Controller
 
