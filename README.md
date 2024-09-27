@@ -69,7 +69,7 @@ What I intended to create, was a 2D survival action game that would address the 
 
 ### What I made: Vorcer
 When I first started producing my game, I realised my idea was too complicated, so I changed a few aspects of the game such as: 
-- **Character Movement**: Smooth player movement using W, A, and D for which W is used for jumping and A and D is used to move left and right
+- **Character Movement**: Smooth player movement using W, A, Space Bar and D for which W, Space Bar is used for jumping and A and D is used to move left and right
 - **Enemy**: Monsters actively shoot at the player, adding difficulty and excitement to the gameplay.
 - **Level Progression**: Players should reach the flag at the end of the level, to unlock the next level.
 - **Music**: Produced a soundtrack in sountrap for the game, to give a sense of excitement
