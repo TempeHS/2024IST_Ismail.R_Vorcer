@@ -11,7 +11,7 @@
  - Production
  - Game Screenshots
  - Video Walkthrough of game
-### 4. [Sprites](#sprites)
+### 4. [Assets](#assets)
  - Folder with everything
 ### 5. [Scripts](#scripts)
 - CameraFollow
@@ -93,12 +93,12 @@ When I first started producing my game, I realised my idea was too complicated, 
 
 https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 
-# Sprites
+# Assets
 
-## Every Sprite in one folder
+## Every asset in one folder
 - [Folder with everything](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Sprites)
 
-## Each Sprite Separated
+## Each asset Separated
 - [Bullet](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Bullet.gif)
 - [Coin Controller](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Coin.controller)
 - [Coin Prefab](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Coin.prefab)
