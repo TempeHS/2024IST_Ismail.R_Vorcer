@@ -46,6 +46,7 @@
 | **Left Joystick**           | Move Left                           |
 | **Right Joystick**          | Move Down                           |
 | **Click**                   | **Unresponsive**                    |
+| **Jump**                    | **Unresponsive**                    |
 
 # Game Objective
 - **Levels**: The game has two levels.
