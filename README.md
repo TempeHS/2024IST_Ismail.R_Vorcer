@@ -3,6 +3,8 @@
 ## Table of Contents
 
 ### 1. [Overview](#overview)
+- Task Description
+- Game Description
 ### 2. [User Documentation](#user-documentation)
  - Controls of the game
 ### 3. [Developer Documentation](#developer-documentation)
@@ -27,6 +29,10 @@
 ### 6. [Credits](#credits)
 
 # Overview
+- Task Description
+The aim of the task was to design and develop a 2D game in unity. I am required to utilize my knowledge of programming and game engines to deliver a fully operational 2D game. As well as a game, I must prepare a README.md file that showcases the game and highlights the development of our game to potential employers. I worked by myself as a Multimedia and IST student who developed and designed its own game and produced characters through the Piskel app.
+
+- Game Description
 **Vorcer** was created as a 2D game where the player has to dodge monster and fireballs shot from the monster, collect coins, and reach the flags to advance to the next level. Originally, the plan was to make a survival action game called **Vorcer**, which would focus on the social issue of verbal bullying, a problem that affects many teenagers today. as it would have followed the theme "Games For Change". The audience for **Vorcer** was intended to be teens, as they often face challenges related to this issue. However, this current game turned into something different. 
 
 # User Documentation
@@ -62,13 +68,13 @@
 
 # Developer Documentation
 
-### Original Storyline (Intended to imply)
+### Original Storyline (Intended To Imply)
 The game will be based on a verbal abuse story. A shy teenager who has started high school and gets verbally abused for his actions and his personality. These factors contribute to the verbal abuse stated by the monsters of his imagination. So, to fight of this imagination, he has to dodge the evil characters of this world.
 
-### What I intended to create: Vorcer
+### What I Intended To Create: Vorcer
 What I intended to create, was a 2D survival action game that would address the social issue of verbal bullying. The idea was to provide players with a platform to navigate through different environments in the that show different emotional and psychological obstacles bullying can create. The aim was to raise awareness of this issue and show how words can impact a person.
 
-### What I made: Vorcer
+### What I Made: Vorcer
 When I first started producing my game, I realised my idea was too complicated, so I changed a few aspects of the game such as: 
 - **Character Movement**: Smooth player movement using W, A, Space Bar and D for which W, Space Bar is used for jumping and A and D is used to move left and right
 - **Enemy**: Monsters actively shoot at the player, adding difficulty and excitement to the gameplay.
@@ -95,10 +101,10 @@ https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 
 # Assets
 
-## Every asset in one folder
+## Every Asset In One Folder
 - [Folder with everything](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Sprites)
 
-## Each asset Separated
+## Each Asset Separated
 - [Bullet](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Bullet.gif)
 - [Coin Controller](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Coin.controller)
 - [Coin Prefab](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Sprites/Coin.prefab)
@@ -115,8 +121,9 @@ https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 
 # Scripts
 
-## Every Script in one folder
+## Every Script In One Folder
 - [Folder with everything](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Script)
+  
 ## Each Script Separated
 - [CameraFollow](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/CameraFollow.cs)
 - [Coin](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/Coin.cs)
