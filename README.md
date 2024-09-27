@@ -29,11 +29,11 @@
 ### 6. [Credits](#credits)
 
 # Overview
-- Task Description
-The aim of the task was to design and develop a 2D game in unity. I am required to utilize my knowledge of programming and game engines to deliver a fully operational 2D game. As well as a game, I must prepare a README.md file that showcases the game and highlights the development of our game to potential employers. I worked by myself as a Multimedia and IST student who developed and designed its own game and produced characters through the Piskel app.
+## Task Description
+- The aim of the task was to design and develop a 2D game in unity. I am required to utilize my knowledge of programming and game engines to deliver a fully operational 2D game. As well as a game, I must prepare a README.md file that showcases the game and highlights the development of our game to potential employers. I worked by myself as a Multimedia and IST student who developed and designed its own game and produced characters through the Piskel app.
 
-- Game Description
-**Vorcer** was created as a 2D game where the player has to dodge monster and fireballs shot from the monster, collect coins, and reach the flags to advance to the next level. Originally, the plan was to make a survival action game called **Vorcer**, which would focus on the social issue of verbal bullying, a problem that affects many teenagers today. as it would have followed the theme "Games For Change". The audience for **Vorcer** was intended to be teens, as they often face challenges related to this issue. However, this current game turned into something different. 
+## Game Description
+- **Vorcer** was created as a 2D game where the player has to dodge monster and fireballs shot from the monster, collect coins, and reach the flags to advance to the next level. Originally, the plan was to make a survival action game called **Vorcer**, which would focus on the social issue of verbal bullying, a problem that affects many teenagers today. as it would have followed the theme "Games For Change". The audience for **Vorcer** was intended to be teens, as they often face challenges related to this issue. However, this current game turned into something different. 
 
 # User Documentation
 
