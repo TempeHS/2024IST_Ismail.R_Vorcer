@@ -5,17 +5,26 @@
 
 # Table of Contents
 
-1. [User Documentation](#user-documentation)
+### 1. [User Documentation](#user-documentation)
  - Controls of the game
-2. [Developer Documentation](#developer-documentation)
+### 2. [Developer Documentation](#developer-documentation)
  - What I intended to make and What I made
  - Game Screenshots
  - Production
  - Video Walkthrough of game
-3. Assets
+### 3. [Assets](#assets)
  - Assets File
-4. Scripts
-5. [Credits](#credits)
+### 4. [Scripts](#scripts)
+- CameraFollow
+- Coin
+- Coin Manager
+- Finish Point
+- Kill Projectile
+- Main Menu
+- Player Movement
+- Respawn
+- Scene Controller
+### 5. [Credits](#credits)
 
 # User Documentation
 
@@ -65,17 +74,18 @@ When I first started producing my game, I realised my idea was too complicated, 
 ![image](https://github.com/user-attachments/assets/3328c74a-8225-48aa-89e1-04247937cb3b)
 
 
-# Production - Game Designs (Online)
-![Particle System](https://unity-connect-prd.storage.googleapis.com/20190620/learn/images/16a13de5-f75c-4595-927c-c45bb16562b9_introduction_to_particle_systems___02.png) ![Script](https://miro.medium.com/v2/resize:fit:833/1*srBw68JwCVqG-z79QokHBw.png) 
-![Game Design Layout](https://gametorrahod.com/content/images/2019/07/Screenshot-2019-07-12-14.13.00.png)
+# Production 
+![image](https://github.com/user-attachments/assets/1250ce42-ca0b-4989-a180-b4ae44e3c651)
+![image](https://github.com/user-attachments/assets/28ca2a44-8cce-4575-b4db-02e5d0bf382c)
+![image](https://github.com/user-attachments/assets/bc930a5b-cc47-4ee3-9989-8b2f9606274c)
 
-# Video Walkthrough
-**The** video is just above 1 minute and demonstartes all game elements such as interactions, aniamtions, effects. It shows off the game and only has Game Audio, it has to voice overs and has hardcoded text. 
+# Game Walkthrough
+**The** video demonstartes all game elements such as interactions, aniamtions, effects. It shows off the game and only has Game Audio, it has no voice overs and has hardcoded text. 
 
 https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 
 # Assets
-[View Assets](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Sprites)
+[View In Game Assets](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/tree/main/My%20project/Assets/Sprites)
 
 # Scripts
 - [CameraFollow](https://github.com/TempeHS/2024IST_Ismail.R_Vorcer/blob/main/My%20project/Assets/Script/CameraFollow.cs)
