@@ -1,21 +1,19 @@
 # 2024IST_Ismail.R_Vorcer
-# Vorcer
 
-**Vorcer** was created as a 2D game where the player has to dodge monster and fireballs shot from the monster, collect coins, and reach the flags to advance to the next level. Originally, the plan was to make a survival action game called **Vorcer**, which would focus on the social issue of verbal bullying, a problem that affects many teenagers today. The audience for **Vorcer** was intended to be teens, as they often face challenges related to this issue. However, this current game turned into something different. 
+## Table of Contents
 
-# Table of Contents
-
-### 1. [User Documentation](#user-documentation)
+### 1. [Overview](#overview)
+### 2. [User Documentation](#user-documentation)
  - Controls of the game
-### 2. [Developer Documentation](#developer-documentation)
+### 3. [Developer Documentation](#developer-documentation)
  - Game Storyline (Intended to Make)
  - What I intended to make and What I made
  - Production
  - Game Screenshots
  - Video Walkthrough of game
-### 3. [Assets](#assets)
+### 4. [Assets](#assets)
  - Assets File
-### 4. [Scripts](#scripts)
+### 5. [Scripts](#scripts)
 - CameraFollow
 - Coin
 - Coin Manager
@@ -25,7 +23,10 @@
 - Player Movement
 - Respawn
 - Scene Controller
-### 5. [Credits](#credits)
+### 6. [Credits](#credits)
+
+# Overview
+**Vorcer** was created as a 2D game where the player has to dodge monster and fireballs shot from the monster, collect coins, and reach the flags to advance to the next level. Originally, the plan was to make a survival action game called **Vorcer**, which would focus on the social issue of verbal bullying, a problem that affects many teenagers today. as it would have followed the theme "Games For Change". The audience for **Vorcer** was intended to be teens, as they often face challenges related to this issue. However, this current game turned into something different. 
 
 # User Documentation
 
