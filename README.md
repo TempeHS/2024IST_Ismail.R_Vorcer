@@ -54,7 +54,8 @@
 - **Monsters**: Dodge monsters shooting fireballs at you while collecting coins.
 - **Coins**: Collect all the coins while avoiding the green monsters shooting at the player.
 - **Flags**: To move to the next level, you need to touch the flag at the end of the level.
-- **Goal**: Complete both levels by collecting coins, dodging monsters. After collecting everything and reaching the final flag, you would be awarded with a win screen.
+- **Goal**: Complete both levels by collecting coins, dodging monsters.
+- **Award**: After collecting everything and reaching the final flag, you would be awarded with a win screen.
 
 # Developer Documentation
 
