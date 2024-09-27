@@ -27,6 +27,7 @@
 - Scene Controller
 - Folder with everything
 ### 6. [Credits](#credits)
+### 7. [Bibliography](#bibliography)
 
 # Overview
 ## Task Description
@@ -140,4 +141,8 @@ https://github.com/user-attachments/assets/c845c1e1-d13a-4ddf-945c-4ca89ea1df3e
 # Credits
 - **Game Design and Development**: Ismail Rizvi
 - **Game Character Designs**: Ismail Rizvi
+
+---
+
+# Bibliography
 
